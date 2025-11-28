@@ -11,6 +11,8 @@
 
 Welcome to your Remotion project!
 
+New: A To-Do list UI is integrated as a composition named `TodoApp` with Ocean Professional styling. See `TODO_APP_README.md` for details.
+
 ## Commands
 
 **Install Dependencies**
@@ -19,11 +21,13 @@ Welcome to your Remotion project!
 npm i
 ```
 
-**Start Preview**
+**Start Preview (port 3000)**
 
 ```console
 npm run dev
 ```
+
+Open the Studio and select the `TodoApp` composition to use the To-Do list.
 
 **Render video**
 
